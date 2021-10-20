@@ -1,0 +1,25 @@
+body{
+    background-color: #fbc7f7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: #170055;
+    color: #fff;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 20px;
+    border-left: 10px solid #e63e6d;
+    box-shadow: 3px 3px 10px #e63e6d;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #e63e6d;
+    color: #fff;
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+}
